@@ -1,0 +1,5 @@
+<이용모듈 및 용도>
+bs4 : HTML / XML 파싱
+requests : HTTP 요청
+re : 정규표현식
+os : os명령어
