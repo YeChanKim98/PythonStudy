@@ -17,6 +17,6 @@ selenium : selenium모듈을 통한 파싱/클롤링 및 자동화 기초  *크�
 
 smtp : smtp를 통한 메일 발송 예제
 
-BaekJoon : 백준 문제풀이 소스
+[사용중]BaekJoon : 백준 문제풀이 소스
 
 Regular_Expression : 정규표현식 공부 파일
